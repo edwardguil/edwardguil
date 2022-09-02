@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwardguil
-- 👀 I’m interested in ... Reinforcement Learning
+- 👀 I’m interested in ... Machine Learning & Reinforcement Learning
 - 🌱 I’m currently learning ... Computer Science
 - 💞️ I’m looking to collaborate on ... ML/DL projects
 - 📫 How to reach me ... PR my profile page
